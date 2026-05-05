@@ -4,7 +4,7 @@
 
 ## UML Diagram
 
-![Factory method UML diagram](./img.png)
+![Factory method UML diagram](./uml.png)
 
 ## Applicability
 

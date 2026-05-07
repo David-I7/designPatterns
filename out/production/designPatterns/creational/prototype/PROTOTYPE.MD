@@ -2,6 +2,8 @@
 
 **Prototype** is a creational design pattern that lets you copy existing objects without making your code dependent on their classes.
 
+## UML Diagram
+
 ![Prototype UML Diagram](./uml.png)
 
 ## Aplicability
